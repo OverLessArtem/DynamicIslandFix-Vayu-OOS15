@@ -18,7 +18,7 @@
 4. Перезагрузите устройство.
 
 ## Ручной способ (без модуля)
-Если вы хотите настроить Dynamic Island без модуля, следуйте этим шагам (основано на решении от @artofgoodman https://4pda.to/forum/index.php?showuser=3657485):
+Если вы хотите настроить Dynamic Island без модуля, следуйте этим шагам (основано на решении от @artofgoodman https://4pda.to/forum/index.php?showuser=3657485)
 
 1. Откройте файловый менеджер с root-правами (рекомендуется MiX Explorer или MT Manager).
 2. Перейдите в папку: /data/user_de/0/com.android.systemui/shared_prefs.
