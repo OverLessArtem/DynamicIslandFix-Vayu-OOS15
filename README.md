@@ -52,4 +52,4 @@
 Основано на решении от @artofgoodman (https://4pda.to/forum/index.php?showuser=3657485) с 4PDA.
 
 ## Лицензия
-GPL-3.0
+[![Лицензия: GPL-3.0](https://img.shields.io/badge/Лицензия-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
