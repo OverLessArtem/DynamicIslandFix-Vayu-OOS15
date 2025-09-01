@@ -1,0 +1,7 @@
+id=dynamicislandfix-vayu-OOS15
+name=Dynamic Island Fix for OOS15 (vayu)
+version=1.0
+versionCode=1
+author=OverLessArtem (aka ArtemOver)
+description=Автоматически добавляет пакеты в Dynamic Island config при загрузке. конфиг находится в /storage/emulated/0/DynamicIsland/packages.config
+minMagisk=24000
